@@ -1,6 +1,7 @@
 # Hi, I'm Magdalena 👋
 
 System / Solution Engineer focused on:
+
 🌐 Networking  
 ☁️ Cloud Infrastructure  
 🔐 Cybersecurity  
