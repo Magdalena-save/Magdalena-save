@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Magdalena 👋
 
-<!--
-**Magdalena-save/Magdalena-save** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System / Solution Engineer focused on:
+- Networking
+- Infrastructure
+- Cloud & Security
+- Automation
+- Data & ML
 
-Here are some ideas to get you started:
+## Technologies
+Python • Bash • Linux • Azure • Docker • SQL • Networking • SCADA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+- Network automation
+- Cloud infrastructure
+- Cybersecurity
+- Data-driven systems
+
+## Featured Projects
+- ML performance analysis
+- Infrastructure automation
+- Shell scripting tools
