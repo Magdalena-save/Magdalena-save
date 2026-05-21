@@ -9,6 +9,7 @@ System / Solution Engineer focused on:
 📊 Data & Machine Learning  
 
 Technologies
+
 Python • Bash • Linux • Azure • Docker • SQL • Java • C/C+ • Networking • SCADA
 
 Current Interests
